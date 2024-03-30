@@ -1,4 +1,4 @@
-let animation = new rsAnimate(document.querySelector("h2"));
+let animation = new rsAnimate();
 
 
 animation.textAnimate({
